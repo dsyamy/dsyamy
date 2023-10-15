@@ -7,5 +7,7 @@ Candidate for Bachelor of Science Degree in Computer Science
 Awards & Activities: Dean’s Scholarship
 
 Expected Graduation Data: May 2027
+
 GPA: N/A
+
 Relevant Coursework: Discrete Structures, Fundamentals of Computer Science 1, Intro to Mathematical Reasoning
