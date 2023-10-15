@@ -1,7 +1,9 @@
 ## Amy Lu
 ### Education: 
 Northeastern University, Khoury College of Computer Sciences 
+
 Candidate for Bachelor of Science Degree in Computer Science 
+
 Awards & Activities: Dean’s Scholarship
 Boston, MA
 May 2027
