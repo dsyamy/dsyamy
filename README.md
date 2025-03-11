@@ -1,4 +1,5 @@
-<h1 align="center"> Hi there 👋 </h1>
+[header](https://images5.alphacoders.com/772/thumb-1920-772123.jpg)
+<h1 align="center"> Hi👋, my name is Amy </h1>
 
 <!--
 **dsyamy/dsyamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
