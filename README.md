@@ -1,4 +1,4 @@
-![header](https://images5.alphacoders.com/772/thumb-1920-772123.jpg)
+![header](https://www.shutterstock.com/shutterstock/videos/3517160795/thumb/1.jpg?ip=x480)
 <h1 align="center"> Hi👋, my name is Amy </h1>
 
 <!--
