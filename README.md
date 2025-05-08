@@ -1,4 +1,3 @@
-![header](https://www.whatspaper.com/wp-content/uploads/2024/07/hd-jellyfish-wallpaper-whatspaper.jpeg)
 
 <h1 align="center"> Hi👋, my name is Amy </h1>
 
